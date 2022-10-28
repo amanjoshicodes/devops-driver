@@ -1,2 +1,3 @@
 # devops-driver
-This holds code for CI/CD pipeline.
+
+This holds code for shared libraries used in Jenkins pipeline.
